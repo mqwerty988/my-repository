@@ -1,2 +1,2 @@
 # my-repository
-This repository i will be using to store my programs online safely
+I will be using this repository to store my programs online safely.
