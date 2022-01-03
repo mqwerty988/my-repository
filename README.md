@@ -1,2 +1,2 @@
-# my-repository
-I will be using this repository to store my programs online safely.
+# My Portfolio Projects
+I will be using this repository to store my portfolio projects.
